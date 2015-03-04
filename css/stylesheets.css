@@ -1,12 +1,12 @@
 
 body {
-  background-color: #c4dce1; /* change background color */
+  background-color: #fd899a ; /* change background color */
   text-align: center;
   color: #000;  /* change font color */
   line-height: 36px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Calibri', Helvetica, sans-serif;
 }
 
 body,html {
@@ -29,7 +29,7 @@ h1 {
 }
 
 #container {
-  background-image: url("../img/cement.jpg"); /* change */
+  background-image: url("../img/dolphin.jpg"); /* change */
   min-height: 100%;
   max-width: 960px;
   margin: 0 auto;
